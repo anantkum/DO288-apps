@@ -14,7 +14,7 @@ pipeline {
         //TODO: Customize these variables for your environment
         DEV_PROJECT = "anantkum-movies-dev"
         STAGE_PROJECT = "anantkum-movies-stage"
-        APP_GIT_URL = "https://github.com/anantkum/DO288-apps"
+        APP_GIT_URL = "https://github.com/anantkum/DO288-apps#review-cicd"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
